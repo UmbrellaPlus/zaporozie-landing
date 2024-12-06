@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: https://umbrella-detox.zaporizhzhe.ua/sitemap.txt
+Sitemap: https://umbrella-detox.zp.ua/sitemap.txt
